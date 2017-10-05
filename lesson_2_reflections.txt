@@ -1,0 +1,8 @@
+5. What happens when you initialize a repository? Why do you need to do it?
+
+Git starts tracking the files, and creates associated files for doing so.  Without the repository initialization, you wouldn't have version control.
+
+8. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area holds the changes you wish to commit.  It sets you up for a snapshot creation.  It allows you to separate the changes you have, at least by file, so that a logical commit can be made.
+
