@@ -10,3 +10,7 @@ The staging area holds the changes you wish to commit.  It sets you up for a sna
 
 Only add the files to the staging area that make sense for a single logical change.  This will leave the other modified files unaffected in the repository.
 
+16. What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
+
+Some situations might be adding an experimental feature, or creating a named backup commit.  Branches allow you to separate a project based on these situations and track them separately, possibly later bringing them together.
+
