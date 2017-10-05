@@ -14,3 +14,7 @@ Only add the files to the staging area that make sense for a single logical chan
 
 Some situations might be adding an experimental feature, or creating a named backup commit.  Branches allow you to separate a project based on these situations and track them separately, possibly later bringing them together.
 
+21. How do the diagrams help you visualize the branch structure?
+
+They help you see the relationship between the commits, and which commits may be accessible in each branch.  They also help you see when certain branches were made.
+
