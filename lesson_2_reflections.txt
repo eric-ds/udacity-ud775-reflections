@@ -6,3 +6,7 @@ Git starts tracking the files, and creates associated files for doing so.  Witho
 
 The staging area holds the changes you wish to commit.  It sets you up for a snapshot creation.  It allows you to separate the changes you have, at least by file, so that a logical commit can be made.
 
+13. How can you use the staging area to make sure you have one commit per logical change?
+
+Only add the files to the staging area that make sense for a single logical change.  This will leave the other modified files unaffected in the repository.
+
