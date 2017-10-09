@@ -22,3 +22,6 @@ They help you see the relationship between the commits, and which commits may be
 
 Merging two branches together keeps the common files, removes files removed since the branch was formed, and adds files added in each separate branch since the branch was formed.  It's represented in the diagram the way it is, because it joins the two streams of commits.
 
+33. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging can be quick, but manual merging allows for more control over what is merged.  Who's to say the automatic merge will be correct every time without fail?  Not to say a manual merge is better because humans are prone to errors as well, but there are often nuances that require a trained eye to determine what the merge result should be.
