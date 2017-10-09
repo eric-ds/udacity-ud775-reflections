@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Using a remote repository allows for collaboration, or for easily using multiple places to work on your code.
