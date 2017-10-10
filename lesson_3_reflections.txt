@@ -17,3 +17,7 @@ Firstly, it allows you to see how much you've changed since your last known stat
 25. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be a lot of sending files back and forth.  It would be less of a learning curve without using git/GitHub, but managing conflicts, different versions, and the loss of flexibility would severely hinder progress and require some other sort of system.  This class makes it feel essential, or at least some other sort of collaborative version control system.
+
+31. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approac have?
+
+Making changes in a separate branch is advantageous when working collaboratively.  The benefit to having a separate branch for master is that any proposed changes have the option to be reviewed, and that you will be able to see if they can be automatically merged.  Working directly in master is good when you're working alone, because you don't have the mess of separate branches and dealing with pull requests, and there shouldn't be nearly as many conflicts.  Branches are great for resolving conflicts.
