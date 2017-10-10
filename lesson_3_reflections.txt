@@ -13,3 +13,7 @@ Forks are when you create a copy of a repository on GitHub, and could be conside
 22. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Firstly, it allows you to see how much you've changed since your last known state of the remote.  Updating the last known state of the remote frequently may make merging less involved, so knowing when it's either been a while or you've made a lot of changes will allow you to gauge when to merge the changes.
+
+25. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be a lot of sending files back and forth.  It would be less of a learning curve without using git/GitHub, but managing conflicts, different versions, and the loss of flexibility would severely hinder progress and require some other sort of system.  This class makes it feel essential, or at least some other sort of collaborative version control system.
